@@ -1,5 +1,5 @@
 title: Xcode Archive & Export for iOS
-summary: Automatically manages your code signing assets, archives and exports an .ipa
+summary: (Noke) Automatically manages your code signing assets, archives and exports an .ipa
   in one Step.
 description: |-
   The Step archives your Xcode project by running the `xcodebuild archive` command and then exports the archive into an .ipa file with the `xcodebuild -exportArchive` command.
